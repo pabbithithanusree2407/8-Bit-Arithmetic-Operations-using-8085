@@ -127,5 +127,6 @@ HLT
 <img width="1066" height="1546" alt="image" src="https://github.com/user-attachments/assets/b9cb5bd0-32c8-439a-84e8-872709a12a85" />
 <img width="1107" height="1599" alt="image" src="https://github.com/user-attachments/assets/95a56827-c196-4bf9-ade1-c6454750d6a9" />
 <img width="2404" height="1372" alt="image" src="https://github.com/user-attachments/assets/c70071f1-303c-447e-952e-760e46205b4c" />
-## Result:
+
+### Result:
 The 8-bit arithmetic operations using the 8085 microprocessor have been successfully executed and verified using memory access for input and output.
